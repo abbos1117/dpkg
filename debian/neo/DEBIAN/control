@@ -1,0 +1,8 @@
+Package: neo
+Version: 1.0-1
+Architecture: amd64
+Maintainer: neo
+Installed-Size: 8
+Section: utils
+Priority: optional
+Description: 'neo' buyrug'i 'pwd' buyrug'iga o'rniga

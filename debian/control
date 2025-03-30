@@ -1,0 +1,11 @@
+Source: neo
+Section: utils
+Priority: optional
+Maintainer: neo
+Standards-Version: 4.5.0
+Build-Depends: debhelper (>= 12)
+
+Package: neo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: 'neo' buyrug'i 'pwd' buyrug'iga o'rniga
